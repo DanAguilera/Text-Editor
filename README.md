@@ -1,5 +1,9 @@
 # Text-Editor
 
+https://damp-lowlands-01510.herokuapp.com/
+
+https://github.com/DanAguilera/Text-Editor
+
 # User Story
 AS A developer
 I WANT to create notes or code snippets with or without an internet connection
